@@ -1,0 +1,26 @@
+* {
+ font-family: 'Courier New', Courier, monospace; 
+}
+h1 {
+    text-align: center;
+    color: blanchedalmond/50%;
+    background-color: black/ 50%; ;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: grey, 3px;
+    }
+p{
+    text-align: center;
+}
+#ingredients {
+    text-align: center;
+}
+#list-ingredients {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
